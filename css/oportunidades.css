@@ -140,7 +140,7 @@ ul {
     background: linear-gradient(135deg, rgb(221, 255, 223) 0%, var(--primary-light) 100%);
     color: white;
     text-align: center;
-
+    padding-bottom: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;

@@ -10,15 +10,14 @@ responsivo.
 
 ### Página Inicial
 
-![Screenshot 1](PaginaInicial.png)
+![Screenshot 1](imagens/PaginaInicial.png)
 
 ### Cards das Oportunidades
 
-![Screenshot 2](CardsOportunidades.png)
+![Screenshot 2](imagens/CardsOportunidades.png)
 
 ### Versão Mobile / Responsiva
-/*FALTA*/
-![Screenshot 3](screenshot_3.png)
+![Screenshot 3](imagens/VersãoMobile%20Responsiva.png)
 
 ------------------------------------------------------------------------
 
