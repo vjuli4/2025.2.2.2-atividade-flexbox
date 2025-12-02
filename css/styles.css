@@ -3,15 +3,16 @@
    =================================== */
 :root {
     /* Cores principais */
-    --primary-color: #007a3d;
-    --primary-dark: #005a2d;
-    --primary-light: #00a84f;
-    --secondary-color: #ffc107;
-    --secondary-dark: #e6b000;
+    --primary-color: #13c56c;
+    --primary-dark: #00612f;
+    --primary-light: #00803b;
+
+    --secondary-color: #ffff75;
+    --secondary-dark: #fff824;
     
     /* Cores de badges */
-    --badge-pesquisa: #007bff;
-    --badge-extensao: #28a745;
+    --badge-pesquisa: #67b1ff;
+    --badge-extensao: #78ff97;
     
     /* Cores neutras */
     --text-primary: #333333;
@@ -504,3 +505,4 @@ ul {
         flex-basis: calc(25% - var(--spacing-xl) * 3 / 4);
     } */
 }
+
