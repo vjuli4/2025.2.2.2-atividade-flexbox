@@ -99,7 +99,7 @@ Criar uma landing page responsiva utilizando HTML5 e CSS3 com Flexbox, apresenta
 - [x] Criar arquivo README.md explicando o projeto
 - [x] Documentar fontes de pesquisa das oportunidades
 - [x] Listar tecnologias utilizadas
-- [ ] Incluir screenshots ou link para visualização
+- [x] Incluir screenshots ou link para visualização
 
 ## 📚 Recursos Úteis
 
