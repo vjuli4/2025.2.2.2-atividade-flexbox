@@ -85,11 +85,11 @@ Edite as variáveis CSS em `styles.css`:
    - Desktop (1920px)
 
 #### Verificar:
-- [ ] Texto é legível em todas as telas
-- [ ] Cards se reorganizam corretamente
-- [ ] Botões são clicáveis (tamanho adequado)
-- [ ] Imagens não quebram o layout
-- [ ] Menu funciona em mobile
+- [x] Texto é legível em todas as telas
+- [x] Cards se reorganizam corretamente
+- [x] Botões são clicáveis (tamanho adequado)
+- [x] Imagens não quebram o layout
+- [x] Menu funciona em mobile
 
 ### 6️⃣ Sexto Passo: Validar Código
 
@@ -189,16 +189,16 @@ R: Use [Unsplash](https://unsplash.com/) ou [Pexels](https://www.pexels.com/) pa
 ## ✅ Checklist de Entrega Final
 
 Antes de entregar, verifique:
-- [ ] Código HTML valida sem erros
-- [ ] Código CSS valida sem erros
-- [ ] Testado em 3 tamanhos de tela diferentes
-- [ ] Pelo menos 5-6 oportunidades adicionadas
-- [ ] README.md criado explicando seu projeto
-- [ ] Cores e design personalizados
-- [ ] Código organizado e comentado
-- [ ] Todos os links testados
-- [ ] Imagens com atributo `alt`
-- [ ] Projeto zipado ou no GitHub
+- [x] Código HTML valida sem erros
+- [x] Código CSS valida sem erros
+- [x] Testado em 3 tamanhos de tela diferentes
+- [x] Pelo menos 5-6 oportunidades adicionadas
+- [x] README.md criado explicando seu projeto
+- [x] Cores e design personalizados
+- [x] Código organizado e comentado
+- [x] Todos os links testados
+- [x] Imagens com atributo `alt`
+- [x] Projeto zipado ou no GitHub
 
 ## 💪 Bônus (Extra)
 

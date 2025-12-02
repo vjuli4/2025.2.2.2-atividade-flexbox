@@ -49,14 +49,14 @@ Este material pode ser usado como:
 
 ## 📋 Checklist Rápido
 
-- [ ] Estrutura HTML semântica
-- [ ] Estilos CSS com Flexbox
-- [ ] Abordagem Mobile-First
-- [ ] Design responsivo (mobile, tablet, desktop)
-- [ ] Cards criativos para oportunidades
-- [ ] Pesquisa de conteúdo sobre IFRN
-- [ ] Testes em diferentes dispositivos
-- [ ] Validação HTML/CSS
+- [x] Estrutura HTML semântica
+- [x] Estilos CSS com Flexbox
+- [x] Abordagem Mobile-First
+- [x] Design responsivo (mobile, tablet, desktop)
+- [x] Cards criativos para oportunidades
+- [x] Pesquisa de conteúdo sobre IFRN
+- [x] Testes em diferentes dispositivos
+- [x] Validação HTML/CSS
 
 ## 🛠️ Tecnologias
 

@@ -13,92 +13,92 @@ Criar uma landing page responsiva utilizando HTML5 e CSS3 com Flexbox, apresenta
 ## ✅ Checklist da Atividade
 
 ### 1. Estrutura HTML
-- [ ] Criar arquivo `index.html` com estrutura básica HTML5
-- [ ] Utilizar tags semânticas (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`)
-- [ ] Adicionar meta tags para responsividade (`viewport`)
-- [ ] Incluir meta tags para SEO (description, keywords)
-- [ ] Vincular arquivo CSS externo
+- [x] Criar arquivo `index.html` com estrutura básica HTML5
+- [x] Utilizar tags semânticas (`<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`)
+- [x] Adicionar meta tags para responsividade (`viewport`)
+- [x] Incluir meta tags para SEO (description, keywords)
+- [x] Vincular arquivo CSS externo
 
 ### 2. Cabeçalho (Header)
-- [ ] Criar logo ou título do IFRN
-- [ ] Adicionar menu de navegação
-- [ ] Implementar Flexbox para alinhar elementos do header
-- [ ] Tornar o header fixo ou responsivo
+- [x] Criar logo ou título do IFRN
+- [x] Adicionar menu de navegação
+- [x] Implementar Flexbox para alinhar elementos do header
+- [x] Tornar o header fixo ou responsivo
 
 ### 3. Seção Hero (Principal)
-- [ ] Criar seção de destaque com título principal
-- [ ] Adicionar subtítulo ou descrição breve
-- [ ] Incluir call-to-action (CTA) principal
-- [ ] Aplicar Flexbox para centralizar conteúdo
+- [x] Criar seção de destaque com título principal
+- [x] Adicionar subtítulo ou descrição breve
+- [x] Incluir call-to-action (CTA) principal
+- [x] Aplicar Flexbox para centralizar conteúdo
 
 ### 4. Seção de Oportunidades (Cards)
-- [ ] Pesquisar pelo menos 3-6 oportunidades reais ou fictícias de projetos IFRN
-- [ ] Criar cards para cada oportunidade com:
-  - [ ] Título do projeto/oportunidade
-  - [ ] Área de atuação (Pesquisa/Extensão)
-  - [ ] Breve descrição
-  - [ ] Requisitos básicos
-  - [ ] Link ou botão "Saiba Mais"
-- [ ] Usar Flexbox para layout dos cards
-- [ ] Implementar `flex-wrap` para responsividade
-- [ ] Aplicar criatividade no design dos cards
+- [x] Pesquisar pelo menos 3-6 oportunidades reais ou fictícias de projetos IFRN
+- [x] Criar cards para cada oportunidade com:
+  - [x] Título do projeto/oportunidade
+  - [x] Área de atuação (Pesquisa/Extensão)
+  - [x] Breve descrição
+  - [x] Requisitos básicos
+  - [x] Link ou botão "Saiba Mais"
+- [x] Usar Flexbox para layout dos cards
+- [x] Implementar `flex-wrap` para responsividade
+- [x] Aplicar criatividade no design dos cards
 
 ### 5. CSS com Flexbox
-- [ ] Criar arquivo `oportunidades.css`
-- [ ] Definir reset CSS básico ou usar normalize.css
-- [ ] Implementar variáveis CSS para cores e espaçamentos
-- [ ] Criar classes utilitárias com Flexbox
+- [x] Criar arquivo `oportunidades.css`
+- [x] Definir reset CSS básico ou usar normalize.css
+- [x] Implementar variáveis CSS para cores e espaçamentos
+- [x] Criar classes utilitárias com Flexbox
 
 #### 5.1. Mobile-First (Smartphone - até 768px)
-- [ ] Definir estilos base para mobile
-- [ ] Cards empilhados verticalmente (flex-direction: column)
-- [ ] Menu hambúrguer ou menu vertical
-- [ ] Espaçamentos otimizados para telas pequenas
-- [ ] Textos com tamanhos legíveis
+- [x] Definir estilos base para mobile
+- [x] Cards empilhados verticalmente (flex-direction: column)
+- [x] Menu hambúrguer ou menu vertical
+- [x] Espaçamentos otimizados para telas pequenas
+- [x] Textos com tamanhos legíveis
 
 #### 5.2. Tablet (768px - 1024px)
-- [ ] Criar media query para tablets
-- [ ] Cards em 2 colunas (flex-basis, flex-grow)
-- [ ] Ajustar espaçamentos
-- [ ] Menu horizontal se aplicável
+- [x] Criar media query para tablets
+- [x] Cards em 2 colunas (flex-basis, flex-grow)
+- [x] Ajustar espaçamentos
+- [x] Menu horizontal se aplicável
 
 #### 5.3. Desktop (acima de 1024px)
-- [ ] Criar media query para desktop
-- [ ] Cards em 3 ou mais colunas
-- [ ] Layout ampliado com max-width para container
-- [ ] Hover effects nos cards e botões
+- [x] Criar media query para desktop
+- [x] Cards em 3 ou mais colunas
+- [x] Layout ampliado com max-width para container
+- [x] Hover effects nos cards e botões
 
 ### 6. Estilização Avançada
-- [ ] Definir paleta de cores profissional
-- [ ] Escolher tipografia adequada (Google Fonts recomendado)
-- [ ] Adicionar sombras e bordas nos cards
-- [ ] Implementar transições CSS (transitions/animations)
-- [ ] Adicionar ícones (Font Awesome, Material Icons, etc.)
+- [x] Definir paleta de cores profissional
+- [x] Escolher tipografia adequada (Google Fonts recomendado)
+- [x] Adicionar sombras e bordas nos cards
+- [x] Implementar transições CSS (transitions/animations)
+- [x] Adicionar ícones (Font Awesome, Material Icons, etc.)
 
 ### 7. Footer
-- [ ] Criar rodapé com informações de contato
-- [ ] Links para redes sociais do IFRN
-- [ ] Informações de copyright
-- [ ] Usar Flexbox para organizar elementos
+- [x] Criar rodapé com informações de contato
+- [x] Links para redes sociais do IFRN
+- [x] Informações de copyright
+- [x] Usar Flexbox para organizar elementos
 
 ### 8. Acessibilidade e Boas Práticas
-- [ ] Adicionar atributos `alt` em imagens
-- [ ] Usar contraste adequado de cores
-- [ ] Testar navegação por teclado
-- [ ] Validar HTML no [W3C Validator](https://validator.w3.org/)
-- [ ] Validar CSS no [CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [x] Adicionar atributos `alt` em imagens
+- [x] Usar contraste adequado de cores
+- [x] Testar navegação por teclado
+- [x] Validar HTML no [W3C Validator](https://validator.w3.org/)
+- [x] Validar CSS no [CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ### 9. Testes e Responsividade
-- [ ] Testar em Chrome DevTools (diferentes dispositivos)
-- [ ] Verificar em smartphone real
-- [ ] Testar em tablet (ou simulador)
-- [ ] Verificar em desktop (diferentes resoluções)
-- [ ] Ajustar breakpoints conforme necessário
+- [x] Testar em Chrome DevTools (diferentes dispositivos)
+- [x] Verificar em smartphone real
+- [x] Testar em tablet (ou simulador)
+- [x] Verificar em desktop (diferentes resoluções)
+- [x] Ajustar breakpoints conforme necessário
 
 ### 10. Documentação
-- [ ] Criar arquivo README.md explicando o projeto
-- [ ] Documentar fontes de pesquisa das oportunidades
-- [ ] Listar tecnologias utilizadas
+- [x] Criar arquivo README.md explicando o projeto
+- [x] Documentar fontes de pesquisa das oportunidades
+- [x] Listar tecnologias utilizadas
 - [ ] Incluir screenshots ou link para visualização
 
 ## 📚 Recursos Úteis
